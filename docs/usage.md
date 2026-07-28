@@ -27,3 +27,4 @@ Notes and usage details for mcpd.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
