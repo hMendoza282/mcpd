@@ -28,3 +28,4 @@ Notes and usage details for mcpd.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
